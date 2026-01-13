@@ -1,0 +1,6 @@
+<Project>
+ <PropertyGroup>
+ <!-- Required for source-generated P/Invoke (LibraryImport) -->
+ <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+ </PropertyGroup>
+</Project>
